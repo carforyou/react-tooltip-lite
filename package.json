@@ -1,7 +1,7 @@
 {
-  "name": "react-tooltip-lite",
+  "name": "@carforyou/react-tooltip-lite",
   "version": "1.12.1",
-  "description": "React tooltip, focused on simplicity and performance",
+  "description": "React tooltip, focused on simplicity and performance. React 17 compatibility, unmaintained.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
